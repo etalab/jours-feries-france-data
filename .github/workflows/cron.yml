@@ -1,0 +1,38 @@
+name: "CRON: build data files"
+
+on:
+  schedule:
+    - cron: "10 14 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: [3.7]
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v1
+      with:
+        python-version: ${{ matrix.python-version }}
+    - name: Install dependencies
+      run: |
+        pip install git+https://github.com/AntoineAugusti/jours-feries-france.git@v2
+        pip install pandas ics python-slugify
+    - name: Run main
+      run: python main.py
+    - name: Commit files
+      run: |
+        git config --local user.email "actions@github.com"
+        git config --local user.name "GitHub Actions"
+        if [ -n "$(git status --porcelain)" ]; then
+          git add .
+          git commit -m "Update data"
+        else
+          echo "No changes";
+        fi
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}

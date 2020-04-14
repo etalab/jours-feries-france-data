@@ -2,6 +2,7 @@ import os
 import json
 import datetime
 from collections import defaultdict
+import hashlib
 
 import pandas as pd
 from ics import Calendar, Event
@@ -15,6 +16,7 @@ def to_csv(df, filename):
 
 def add_event(calendar, name, date):
     event = Event()
+    event.uid = hashlib.md5(f"{name}{str(date)}".encode("utf-8")).hexdigest()
     event.name = name
     event.begin = date.strftime("%Y-%m-%d")
     event.make_all_day()

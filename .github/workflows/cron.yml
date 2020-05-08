@@ -16,10 +16,16 @@ jobs:
       uses: actions/setup-python@v1
       with:
         python-version: ${{ matrix.python-version }}
+    - name: Cache pip
+      uses: actions/cache@v1
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+          ${{ runner.os }}-
     - name: Install dependencies
-      run: |
-        pip install git+https://github.com/AntoineAugusti/jours-feries-france.git@v2
-        pip install pandas ics python-slugify
+      run: pip install -r requirements.txt
     - name: Run main
       run: python main.py
     - name: Commit files
@@ -29,10 +35,8 @@ jobs:
         if [ -n "$(git status --porcelain)" ]; then
           git add .
           git commit -m "Update data"
+          git push origin master
         else
           echo "No changes";
         fi
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+

@@ -19,19 +19,21 @@ def add_event(calendar, name, date):
     event.uid = hashlib.md5(f"{name}{str(date)}".encode("utf-8")).hexdigest()
     event.name = name
     event.begin = date.strftime("%Y-%m-%d")
+    event.created = datetime.datetime(datetime.date.today().year, 1, 1)
     event.make_all_day()
     calendar.events.add(event)
 
 
 def write_calendar(calendar, filename, name):
-    content = str(calendar).split("\n")
+    content = str(calendar).split("\r\n")
 
     # Add calendar name
-    content.insert(2, f"NAME:{name}\r")
-    content.insert(2, f"X-WR-CALNAME:{name}\r")
+    content.insert(2, f"NAME:{name}")
+    content.insert(2, f"X-WR-CALNAME:{name}")
 
-    with open(filename, "w") as f:
-        f.writelines(content)
+    with open(filename, "w", newline=None) as f:
+        for line in content:
+            f.write(f"{line}\r\n")
 
 
 def write_json(filename, bank_holidays):
@@ -56,6 +58,7 @@ for zone, zone_slug in [(z, slugify(z)) for z in JoursFeries.ZONES]:
     json_data = {}
     calendar = Calendar()
     calendar.creator = "Etalab"
+    calendar.method = "PUBLISH"
     for year in range(current_year + START, current_year + END + 1):
         bank_holidays = JoursFeries.for_year(year, zone)
 

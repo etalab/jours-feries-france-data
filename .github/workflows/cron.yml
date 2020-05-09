@@ -1,6 +1,7 @@
 name: "CRON: build data files"
 
 on:
+  push:
   schedule:
     - cron: "10 14 * * *"
 

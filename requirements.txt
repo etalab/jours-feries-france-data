@@ -1,6 +1,6 @@
 arrow==0.14.7
 ics==0.7
-jours-feries-france==0.6.0
+jours-feries-france==0.7.0
 numpy==1.18.2
 pandas==1.0.3
 python-dateutil==2.8.1

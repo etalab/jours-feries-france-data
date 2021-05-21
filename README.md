@@ -1,5 +1,5 @@
 ![Licences](https://img.shields.io/badge/Licences-MIT%2C%20Licence%20Ouverte-orange)
-![CRON: build data files](https://github.com/AntoineAugusti/jours-feries-france-data/workflows/CRON:%20build%20data%20files/badge.svg)
+[![CRON: build data files](https://github.com/etalab/jours-feries-france-data/actions/workflows/cron.yml/badge.svg)](https://github.com/etalab/jours-feries-france-data/actions/workflows/cron.yml)
 [![Keep-Alive](https://github.com/etalab/jours-feries-france-data/actions/workflows/keepalive.yml/badge.svg)](https://github.com/etalab/jours-feries-france-data/actions/workflows/keepalive.yml)
 
 # Jours fériés en France - données

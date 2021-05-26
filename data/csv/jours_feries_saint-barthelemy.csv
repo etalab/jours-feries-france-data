@@ -1,4 +1,16 @@
 date,annee,zone,nom_jour_ferie
+2000-01-01,2000,Saint-Barthélémy,1er janvier
+2000-04-24,2000,Saint-Barthélémy,Lundi de Pâques
+2000-05-01,2000,Saint-Barthélémy,1er mai
+2000-05-08,2000,Saint-Barthélémy,8 mai
+2000-06-01,2000,Saint-Barthélémy,Ascension
+2000-06-12,2000,Saint-Barthélémy,Lundi de Pentecôte
+2000-07-14,2000,Saint-Barthélémy,14 juillet
+2000-08-15,2000,Saint-Barthélémy,Assomption
+2000-10-09,2000,Saint-Barthélémy,Abolition de l'esclavage
+2000-11-01,2000,Saint-Barthélémy,Toussaint
+2000-11-11,2000,Saint-Barthélémy,11 novembre
+2000-12-25,2000,Saint-Barthélémy,Jour de Noël
 2001-01-01,2001,Saint-Barthélémy,1er janvier
 2001-04-16,2001,Saint-Barthélémy,Lundi de Pâques
 2001-05-01,2001,Saint-Barthélémy,1er mai
@@ -85,8 +97,8 @@ date,annee,zone,nom_jour_ferie
 2007-12-25,2007,Saint-Barthélémy,Jour de Noël
 2008-01-01,2008,Saint-Barthélémy,1er janvier
 2008-03-24,2008,Saint-Barthélémy,Lundi de Pâques
-2008-05-01,2008,Saint-Barthélémy,Ascension
 2008-05-01,2008,Saint-Barthélémy,1er mai
+2008-05-01,2008,Saint-Barthélémy,Ascension
 2008-05-08,2008,Saint-Barthélémy,8 mai
 2008-05-12,2008,Saint-Barthélémy,Lundi de Pentecôte
 2008-07-14,2008,Saint-Barthélémy,14 juillet
@@ -299,15 +311,3 @@ date,annee,zone,nom_jour_ferie
 2025-11-01,2025,Saint-Barthélémy,Toussaint
 2025-11-11,2025,Saint-Barthélémy,11 novembre
 2025-12-25,2025,Saint-Barthélémy,Jour de Noël
-2026-01-01,2026,Saint-Barthélémy,1er janvier
-2026-04-06,2026,Saint-Barthélémy,Lundi de Pâques
-2026-05-01,2026,Saint-Barthélémy,1er mai
-2026-05-08,2026,Saint-Barthélémy,8 mai
-2026-05-14,2026,Saint-Barthélémy,Ascension
-2026-05-25,2026,Saint-Barthélémy,Lundi de Pentecôte
-2026-07-14,2026,Saint-Barthélémy,14 juillet
-2026-08-15,2026,Saint-Barthélémy,Assomption
-2026-10-09,2026,Saint-Barthélémy,Abolition de l'esclavage
-2026-11-01,2026,Saint-Barthélémy,Toussaint
-2026-11-11,2026,Saint-Barthélémy,11 novembre
-2026-12-25,2026,Saint-Barthélémy,Jour de Noël

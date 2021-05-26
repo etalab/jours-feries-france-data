@@ -1,4 +1,15 @@
 date,annee,zone,nom_jour_ferie
+2000-01-01,2000,Saint-Pierre-et-Miquelon,1er janvier
+2000-04-24,2000,Saint-Pierre-et-Miquelon,Lundi de Pâques
+2000-05-01,2000,Saint-Pierre-et-Miquelon,1er mai
+2000-05-08,2000,Saint-Pierre-et-Miquelon,8 mai
+2000-06-01,2000,Saint-Pierre-et-Miquelon,Ascension
+2000-06-12,2000,Saint-Pierre-et-Miquelon,Lundi de Pentecôte
+2000-07-14,2000,Saint-Pierre-et-Miquelon,14 juillet
+2000-08-15,2000,Saint-Pierre-et-Miquelon,Assomption
+2000-11-01,2000,Saint-Pierre-et-Miquelon,Toussaint
+2000-11-11,2000,Saint-Pierre-et-Miquelon,11 novembre
+2000-12-25,2000,Saint-Pierre-et-Miquelon,Jour de Noël
 2001-01-01,2001,Saint-Pierre-et-Miquelon,1er janvier
 2001-04-16,2001,Saint-Pierre-et-Miquelon,Lundi de Pâques
 2001-05-01,2001,Saint-Pierre-et-Miquelon,1er mai
@@ -78,8 +89,8 @@ date,annee,zone,nom_jour_ferie
 2007-12-25,2007,Saint-Pierre-et-Miquelon,Jour de Noël
 2008-01-01,2008,Saint-Pierre-et-Miquelon,1er janvier
 2008-03-24,2008,Saint-Pierre-et-Miquelon,Lundi de Pâques
-2008-05-01,2008,Saint-Pierre-et-Miquelon,Ascension
 2008-05-01,2008,Saint-Pierre-et-Miquelon,1er mai
+2008-05-01,2008,Saint-Pierre-et-Miquelon,Ascension
 2008-05-08,2008,Saint-Pierre-et-Miquelon,8 mai
 2008-05-12,2008,Saint-Pierre-et-Miquelon,Lundi de Pentecôte
 2008-07-14,2008,Saint-Pierre-et-Miquelon,14 juillet
@@ -274,14 +285,3 @@ date,annee,zone,nom_jour_ferie
 2025-11-01,2025,Saint-Pierre-et-Miquelon,Toussaint
 2025-11-11,2025,Saint-Pierre-et-Miquelon,11 novembre
 2025-12-25,2025,Saint-Pierre-et-Miquelon,Jour de Noël
-2026-01-01,2026,Saint-Pierre-et-Miquelon,1er janvier
-2026-04-06,2026,Saint-Pierre-et-Miquelon,Lundi de Pâques
-2026-05-01,2026,Saint-Pierre-et-Miquelon,1er mai
-2026-05-08,2026,Saint-Pierre-et-Miquelon,8 mai
-2026-05-14,2026,Saint-Pierre-et-Miquelon,Ascension
-2026-05-25,2026,Saint-Pierre-et-Miquelon,Lundi de Pentecôte
-2026-07-14,2026,Saint-Pierre-et-Miquelon,14 juillet
-2026-08-15,2026,Saint-Pierre-et-Miquelon,Assomption
-2026-11-01,2026,Saint-Pierre-et-Miquelon,Toussaint
-2026-11-11,2026,Saint-Pierre-et-Miquelon,11 novembre
-2026-12-25,2026,Saint-Pierre-et-Miquelon,Jour de Noël

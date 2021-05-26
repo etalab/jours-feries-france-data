@@ -1,4 +1,17 @@
 date,annee,zone,nom_jour_ferie
+2000-01-01,2000,Alsace-Moselle,1er janvier
+2000-04-21,2000,Alsace-Moselle,Vendredi saint
+2000-04-24,2000,Alsace-Moselle,Lundi de Pâques
+2000-05-01,2000,Alsace-Moselle,1er mai
+2000-05-08,2000,Alsace-Moselle,8 mai
+2000-06-01,2000,Alsace-Moselle,Ascension
+2000-06-12,2000,Alsace-Moselle,Lundi de Pentecôte
+2000-07-14,2000,Alsace-Moselle,14 juillet
+2000-08-15,2000,Alsace-Moselle,Assomption
+2000-11-01,2000,Alsace-Moselle,Toussaint
+2000-11-11,2000,Alsace-Moselle,11 novembre
+2000-12-25,2000,Alsace-Moselle,Jour de Noël
+2000-12-26,2000,Alsace-Moselle,2ème jour de Noël
 2001-01-01,2001,Alsace-Moselle,1er janvier
 2001-04-13,2001,Alsace-Moselle,Vendredi saint
 2001-04-16,2001,Alsace-Moselle,Lundi de Pâques
@@ -324,16 +337,3 @@ date,annee,zone,nom_jour_ferie
 2025-11-11,2025,Alsace-Moselle,11 novembre
 2025-12-25,2025,Alsace-Moselle,Jour de Noël
 2025-12-26,2025,Alsace-Moselle,2ème jour de Noël
-2026-01-01,2026,Alsace-Moselle,1er janvier
-2026-04-03,2026,Alsace-Moselle,Vendredi saint
-2026-04-06,2026,Alsace-Moselle,Lundi de Pâques
-2026-05-01,2026,Alsace-Moselle,1er mai
-2026-05-08,2026,Alsace-Moselle,8 mai
-2026-05-14,2026,Alsace-Moselle,Ascension
-2026-05-25,2026,Alsace-Moselle,Lundi de Pentecôte
-2026-07-14,2026,Alsace-Moselle,14 juillet
-2026-08-15,2026,Alsace-Moselle,Assomption
-2026-11-01,2026,Alsace-Moselle,Toussaint
-2026-11-11,2026,Alsace-Moselle,11 novembre
-2026-12-25,2026,Alsace-Moselle,Jour de Noël
-2026-12-26,2026,Alsace-Moselle,2ème jour de Noël

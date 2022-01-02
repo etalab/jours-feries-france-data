@@ -1,15 +1,4 @@
 date,annee,zone,nom_jour_ferie
-2001-01-01,2001,Métropole,1er janvier
-2001-04-16,2001,Métropole,Lundi de Pâques
-2001-05-01,2001,Métropole,1er mai
-2001-05-08,2001,Métropole,8 mai
-2001-05-24,2001,Métropole,Ascension
-2001-06-04,2001,Métropole,Lundi de Pentecôte
-2001-07-14,2001,Métropole,14 juillet
-2001-08-15,2001,Métropole,Assomption
-2001-11-01,2001,Métropole,Toussaint
-2001-11-11,2001,Métropole,11 novembre
-2001-12-25,2001,Métropole,Jour de Noël
 2002-01-01,2002,Métropole,1er janvier
 2002-04-01,2002,Métropole,Lundi de Pâques
 2002-05-01,2002,Métropole,1er mai
@@ -78,8 +67,8 @@ date,annee,zone,nom_jour_ferie
 2007-12-25,2007,Métropole,Jour de Noël
 2008-01-01,2008,Métropole,1er janvier
 2008-03-24,2008,Métropole,Lundi de Pâques
-2008-05-01,2008,Métropole,Ascension
 2008-05-01,2008,Métropole,1er mai
+2008-05-01,2008,Métropole,Ascension
 2008-05-08,2008,Métropole,8 mai
 2008-05-12,2008,Métropole,Lundi de Pentecôte
 2008-07-14,2008,Métropole,14 juillet
@@ -285,3 +274,14 @@ date,annee,zone,nom_jour_ferie
 2026-11-01,2026,Métropole,Toussaint
 2026-11-11,2026,Métropole,11 novembre
 2026-12-25,2026,Métropole,Jour de Noël
+2027-01-01,2027,Métropole,1er janvier
+2027-03-29,2027,Métropole,Lundi de Pâques
+2027-05-01,2027,Métropole,1er mai
+2027-05-06,2027,Métropole,Ascension
+2027-05-08,2027,Métropole,8 mai
+2027-05-17,2027,Métropole,Lundi de Pentecôte
+2027-07-14,2027,Métropole,14 juillet
+2027-08-15,2027,Métropole,Assomption
+2027-11-01,2027,Métropole,Toussaint
+2027-11-11,2027,Métropole,11 novembre
+2027-12-25,2027,Métropole,Jour de Noël

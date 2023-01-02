@@ -1,16 +1,4 @@
 date,annee,zone,nom_jour_ferie
-2002-01-01,2002,Saint-Martin,1er janvier
-2002-04-01,2002,Saint-Martin,Lundi de Pâques
-2002-05-01,2002,Saint-Martin,1er mai
-2002-05-08,2002,Saint-Martin,8 mai
-2002-05-09,2002,Saint-Martin,Ascension
-2002-05-20,2002,Saint-Martin,Lundi de Pentecôte
-2002-05-27,2002,Saint-Martin,Abolition de l'esclavage
-2002-07-14,2002,Saint-Martin,14 juillet
-2002-08-15,2002,Saint-Martin,Assomption
-2002-11-01,2002,Saint-Martin,Toussaint
-2002-11-11,2002,Saint-Martin,11 novembre
-2002-12-25,2002,Saint-Martin,Jour de Noël
 2003-01-01,2003,Saint-Martin,1er janvier
 2003-04-21,2003,Saint-Martin,Lundi de Pâques
 2003-05-01,2003,Saint-Martin,1er mai
@@ -311,3 +299,15 @@ date,annee,zone,nom_jour_ferie
 2027-11-01,2027,Saint-Martin,Toussaint
 2027-11-11,2027,Saint-Martin,11 novembre
 2027-12-25,2027,Saint-Martin,Jour de Noël
+2028-01-01,2028,Saint-Martin,1er janvier
+2028-04-17,2028,Saint-Martin,Lundi de Pâques
+2028-05-01,2028,Saint-Martin,1er mai
+2028-05-08,2028,Saint-Martin,8 mai
+2028-05-25,2028,Saint-Martin,Ascension
+2028-05-28,2028,Saint-Martin,Abolition de l'esclavage
+2028-06-05,2028,Saint-Martin,Lundi de Pentecôte
+2028-07-14,2028,Saint-Martin,14 juillet
+2028-08-15,2028,Saint-Martin,Assomption
+2028-11-01,2028,Saint-Martin,Toussaint
+2028-11-11,2028,Saint-Martin,11 novembre
+2028-12-25,2028,Saint-Martin,Jour de Noël

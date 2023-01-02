@@ -1,16 +1,4 @@
 date,annee,zone,nom_jour_ferie
-2002-01-01,2002,Martinique,1er janvier
-2002-04-01,2002,Martinique,Lundi de Pâques
-2002-05-01,2002,Martinique,1er mai
-2002-05-08,2002,Martinique,8 mai
-2002-05-09,2002,Martinique,Ascension
-2002-05-20,2002,Martinique,Lundi de Pentecôte
-2002-05-22,2002,Martinique,Abolition de l'esclavage
-2002-07-14,2002,Martinique,14 juillet
-2002-08-15,2002,Martinique,Assomption
-2002-11-01,2002,Martinique,Toussaint
-2002-11-11,2002,Martinique,11 novembre
-2002-12-25,2002,Martinique,Jour de Noël
 2003-01-01,2003,Martinique,1er janvier
 2003-04-21,2003,Martinique,Lundi de Pâques
 2003-05-01,2003,Martinique,1er mai
@@ -311,3 +299,15 @@ date,annee,zone,nom_jour_ferie
 2027-11-01,2027,Martinique,Toussaint
 2027-11-11,2027,Martinique,11 novembre
 2027-12-25,2027,Martinique,Jour de Noël
+2028-01-01,2028,Martinique,1er janvier
+2028-04-17,2028,Martinique,Lundi de Pâques
+2028-05-01,2028,Martinique,1er mai
+2028-05-08,2028,Martinique,8 mai
+2028-05-22,2028,Martinique,Abolition de l'esclavage
+2028-05-25,2028,Martinique,Ascension
+2028-06-05,2028,Martinique,Lundi de Pentecôte
+2028-07-14,2028,Martinique,14 juillet
+2028-08-15,2028,Martinique,Assomption
+2028-11-01,2028,Martinique,Toussaint
+2028-11-11,2028,Martinique,11 novembre
+2028-12-25,2028,Martinique,Jour de Noël

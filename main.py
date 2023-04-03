@@ -21,6 +21,7 @@ def add_event(calendar, name, date):
     event.begin = date.strftime("%Y-%m-%d")
     event.created = datetime.datetime(datetime.date.today().year, 1, 1)
     event.make_all_day()
+    event.end = date.strftime("%Y-%m-%d")
     calendar.events.add(event)
 
 

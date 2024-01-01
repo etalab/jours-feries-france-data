@@ -1,15 +1,4 @@
 date,annee,zone,nom_jour_ferie
-2003-01-01,2003,Wallis-et-Futuna,1er janvier
-2003-04-21,2003,Wallis-et-Futuna,Lundi de Pâques
-2003-05-01,2003,Wallis-et-Futuna,1er mai
-2003-05-08,2003,Wallis-et-Futuna,8 mai
-2003-05-29,2003,Wallis-et-Futuna,Ascension
-2003-06-09,2003,Wallis-et-Futuna,Lundi de Pentecôte
-2003-07-14,2003,Wallis-et-Futuna,14 juillet
-2003-08-15,2003,Wallis-et-Futuna,Assomption
-2003-11-01,2003,Wallis-et-Futuna,Toussaint
-2003-11-11,2003,Wallis-et-Futuna,11 novembre
-2003-12-25,2003,Wallis-et-Futuna,Jour de Noël
 2004-01-01,2004,Wallis-et-Futuna,1er janvier
 2004-04-12,2004,Wallis-et-Futuna,Lundi de Pâques
 2004-05-01,2004,Wallis-et-Futuna,1er mai
@@ -285,3 +274,14 @@ date,annee,zone,nom_jour_ferie
 2028-11-01,2028,Wallis-et-Futuna,Toussaint
 2028-11-11,2028,Wallis-et-Futuna,11 novembre
 2028-12-25,2028,Wallis-et-Futuna,Jour de Noël
+2029-01-01,2029,Wallis-et-Futuna,1er janvier
+2029-04-02,2029,Wallis-et-Futuna,Lundi de Pâques
+2029-05-01,2029,Wallis-et-Futuna,1er mai
+2029-05-08,2029,Wallis-et-Futuna,8 mai
+2029-05-10,2029,Wallis-et-Futuna,Ascension
+2029-05-21,2029,Wallis-et-Futuna,Lundi de Pentecôte
+2029-07-14,2029,Wallis-et-Futuna,14 juillet
+2029-08-15,2029,Wallis-et-Futuna,Assomption
+2029-11-01,2029,Wallis-et-Futuna,Toussaint
+2029-11-11,2029,Wallis-et-Futuna,11 novembre
+2029-12-25,2029,Wallis-et-Futuna,Jour de Noël

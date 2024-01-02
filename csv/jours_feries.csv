@@ -1,23 +1,4 @@
 date,nom_jour_ferie,zones
-2003-01-01,1er janvier,Métropole|Alsace-Moselle|Guadeloupe|Guyane|Martinique|Mayotte|Nouvelle-Calédonie|La Réunion|Polynésie Française|Saint-Barthélémy|Saint-Martin|Wallis-et-Futuna|Saint-Pierre-et-Miquelon
-2003-04-18,Vendredi saint,Alsace-Moselle
-2003-04-21,Lundi de Pâques,Métropole|Alsace-Moselle|Guadeloupe|Guyane|Martinique|Mayotte|Nouvelle-Calédonie|La Réunion|Polynésie Française|Saint-Barthélémy|Saint-Martin|Wallis-et-Futuna|Saint-Pierre-et-Miquelon
-2003-04-27,Abolition de l'esclavage,Mayotte
-2003-05-01,1er mai,Métropole|Alsace-Moselle|Guadeloupe|Guyane|Martinique|Mayotte|Nouvelle-Calédonie|La Réunion|Polynésie Française|Saint-Barthélémy|Saint-Martin|Wallis-et-Futuna|Saint-Pierre-et-Miquelon
-2003-05-08,8 mai,Métropole|Alsace-Moselle|Guadeloupe|Guyane|Martinique|Mayotte|Nouvelle-Calédonie|La Réunion|Polynésie Française|Saint-Barthélémy|Saint-Martin|Wallis-et-Futuna|Saint-Pierre-et-Miquelon
-2003-05-22,Abolition de l'esclavage,Martinique
-2003-05-27,Abolition de l'esclavage,Guadeloupe|Saint-Martin
-2003-05-29,Ascension,Métropole|Alsace-Moselle|Guadeloupe|Guyane|Martinique|Mayotte|Nouvelle-Calédonie|La Réunion|Polynésie Française|Saint-Barthélémy|Saint-Martin|Wallis-et-Futuna|Saint-Pierre-et-Miquelon
-2003-06-09,Lundi de Pentecôte,Métropole|Alsace-Moselle|Guadeloupe|Guyane|Martinique|Mayotte|Nouvelle-Calédonie|La Réunion|Polynésie Française|Saint-Barthélémy|Saint-Martin|Wallis-et-Futuna|Saint-Pierre-et-Miquelon
-2003-06-10,Abolition de l'esclavage,Guyane
-2003-07-14,14 juillet,Métropole|Alsace-Moselle|Guadeloupe|Guyane|Martinique|Mayotte|Nouvelle-Calédonie|La Réunion|Polynésie Française|Saint-Barthélémy|Saint-Martin|Wallis-et-Futuna|Saint-Pierre-et-Miquelon
-2003-08-15,Assomption,Métropole|Alsace-Moselle|Guadeloupe|Guyane|Martinique|Mayotte|Nouvelle-Calédonie|La Réunion|Polynésie Française|Saint-Barthélémy|Saint-Martin|Wallis-et-Futuna|Saint-Pierre-et-Miquelon
-2003-10-09,Abolition de l'esclavage,Saint-Barthélémy
-2003-11-01,Toussaint,Métropole|Alsace-Moselle|Guadeloupe|Guyane|Martinique|Mayotte|Nouvelle-Calédonie|La Réunion|Polynésie Française|Saint-Barthélémy|Saint-Martin|Wallis-et-Futuna|Saint-Pierre-et-Miquelon
-2003-11-11,11 novembre,Métropole|Alsace-Moselle|Guadeloupe|Guyane|Martinique|Mayotte|Nouvelle-Calédonie|La Réunion|Polynésie Française|Saint-Barthélémy|Saint-Martin|Wallis-et-Futuna|Saint-Pierre-et-Miquelon
-2003-12-20,Abolition de l'esclavage,La Réunion
-2003-12-25,Jour de Noël,Métropole|Alsace-Moselle|Guadeloupe|Guyane|Martinique|Mayotte|Nouvelle-Calédonie|La Réunion|Polynésie Française|Saint-Barthélémy|Saint-Martin|Wallis-et-Futuna|Saint-Pierre-et-Miquelon
-2003-12-26,2ème jour de Noël,Alsace-Moselle
 2004-01-01,1er janvier,Métropole|Alsace-Moselle|Guadeloupe|Guyane|Martinique|Mayotte|Nouvelle-Calédonie|La Réunion|Polynésie Française|Saint-Barthélémy|Saint-Martin|Wallis-et-Futuna|Saint-Pierre-et-Miquelon
 2004-04-09,Vendredi saint,Alsace-Moselle
 2004-04-12,Lundi de Pâques,Métropole|Alsace-Moselle|Guadeloupe|Guyane|Martinique|Mayotte|Nouvelle-Calédonie|La Réunion|Polynésie Française|Saint-Barthélémy|Saint-Martin|Wallis-et-Futuna|Saint-Pierre-et-Miquelon
@@ -314,8 +295,8 @@ date,nom_jour_ferie,zones
 2019-05-27,Abolition de l'esclavage,Guadeloupe
 2019-05-28,Abolition de l'esclavage,Saint-Martin
 2019-05-30,Ascension,Métropole|Alsace-Moselle|Guadeloupe|Guyane|Martinique|Mayotte|Nouvelle-Calédonie|La Réunion|Polynésie Française|Saint-Barthélémy|Saint-Martin|Wallis-et-Futuna|Saint-Pierre-et-Miquelon
-2019-06-10,Abolition de l'esclavage,Guyane
 2019-06-10,Lundi de Pentecôte,Métropole|Alsace-Moselle|Guadeloupe|Guyane|Martinique|Mayotte|Nouvelle-Calédonie|La Réunion|Polynésie Française|Saint-Barthélémy|Saint-Martin|Wallis-et-Futuna|Saint-Pierre-et-Miquelon
+2019-06-10,Abolition de l'esclavage,Guyane
 2019-07-14,14 juillet,Métropole|Alsace-Moselle|Guadeloupe|Guyane|Martinique|Mayotte|Nouvelle-Calédonie|La Réunion|Polynésie Française|Saint-Barthélémy|Saint-Martin|Wallis-et-Futuna|Saint-Pierre-et-Miquelon
 2019-08-15,Assomption,Métropole|Alsace-Moselle|Guadeloupe|Guyane|Martinique|Mayotte|Nouvelle-Calédonie|La Réunion|Polynésie Française|Saint-Barthélémy|Saint-Martin|Wallis-et-Futuna|Saint-Pierre-et-Miquelon
 2019-10-09,Abolition de l'esclavage,Saint-Barthélémy
@@ -504,3 +485,23 @@ date,nom_jour_ferie,zones
 2028-12-20,Abolition de l'esclavage,La Réunion
 2028-12-25,Jour de Noël,Métropole|Alsace-Moselle|Guadeloupe|Guyane|Martinique|Mayotte|Nouvelle-Calédonie|La Réunion|Polynésie Française|Saint-Barthélémy|Saint-Martin|Wallis-et-Futuna|Saint-Pierre-et-Miquelon
 2028-12-26,2ème jour de Noël,Alsace-Moselle
+2029-01-01,1er janvier,Métropole|Alsace-Moselle|Guadeloupe|Guyane|Martinique|Mayotte|Nouvelle-Calédonie|La Réunion|Polynésie Française|Saint-Barthélémy|Saint-Martin|Wallis-et-Futuna|Saint-Pierre-et-Miquelon
+2029-03-30,Vendredi saint,Alsace-Moselle
+2029-04-02,Lundi de Pâques,Métropole|Alsace-Moselle|Guadeloupe|Guyane|Martinique|Mayotte|Nouvelle-Calédonie|La Réunion|Polynésie Française|Saint-Barthélémy|Saint-Martin|Wallis-et-Futuna|Saint-Pierre-et-Miquelon
+2029-04-27,Abolition de l'esclavage,Mayotte
+2029-05-01,1er mai,Métropole|Alsace-Moselle|Guadeloupe|Guyane|Martinique|Mayotte|Nouvelle-Calédonie|La Réunion|Polynésie Française|Saint-Barthélémy|Saint-Martin|Wallis-et-Futuna|Saint-Pierre-et-Miquelon
+2029-05-08,8 mai,Métropole|Alsace-Moselle|Guadeloupe|Guyane|Martinique|Mayotte|Nouvelle-Calédonie|La Réunion|Polynésie Française|Saint-Barthélémy|Saint-Martin|Wallis-et-Futuna|Saint-Pierre-et-Miquelon
+2029-05-10,Ascension,Métropole|Alsace-Moselle|Guadeloupe|Guyane|Martinique|Mayotte|Nouvelle-Calédonie|La Réunion|Polynésie Française|Saint-Barthélémy|Saint-Martin|Wallis-et-Futuna|Saint-Pierre-et-Miquelon
+2029-05-21,Lundi de Pentecôte,Métropole|Alsace-Moselle|Guadeloupe|Guyane|Martinique|Mayotte|Nouvelle-Calédonie|La Réunion|Polynésie Française|Saint-Barthélémy|Saint-Martin|Wallis-et-Futuna|Saint-Pierre-et-Miquelon
+2029-05-22,Abolition de l'esclavage,Martinique
+2029-05-27,Abolition de l'esclavage,Guadeloupe
+2029-05-28,Abolition de l'esclavage,Saint-Martin
+2029-06-10,Abolition de l'esclavage,Guyane
+2029-07-14,14 juillet,Métropole|Alsace-Moselle|Guadeloupe|Guyane|Martinique|Mayotte|Nouvelle-Calédonie|La Réunion|Polynésie Française|Saint-Barthélémy|Saint-Martin|Wallis-et-Futuna|Saint-Pierre-et-Miquelon
+2029-08-15,Assomption,Métropole|Alsace-Moselle|Guadeloupe|Guyane|Martinique|Mayotte|Nouvelle-Calédonie|La Réunion|Polynésie Française|Saint-Barthélémy|Saint-Martin|Wallis-et-Futuna|Saint-Pierre-et-Miquelon
+2029-10-09,Abolition de l'esclavage,Saint-Barthélémy
+2029-11-01,Toussaint,Métropole|Alsace-Moselle|Guadeloupe|Guyane|Martinique|Mayotte|Nouvelle-Calédonie|La Réunion|Polynésie Française|Saint-Barthélémy|Saint-Martin|Wallis-et-Futuna|Saint-Pierre-et-Miquelon
+2029-11-11,11 novembre,Métropole|Alsace-Moselle|Guadeloupe|Guyane|Martinique|Mayotte|Nouvelle-Calédonie|La Réunion|Polynésie Française|Saint-Barthélémy|Saint-Martin|Wallis-et-Futuna|Saint-Pierre-et-Miquelon
+2029-12-20,Abolition de l'esclavage,La Réunion
+2029-12-25,Jour de Noël,Métropole|Alsace-Moselle|Guadeloupe|Guyane|Martinique|Mayotte|Nouvelle-Calédonie|La Réunion|Polynésie Française|Saint-Barthélémy|Saint-Martin|Wallis-et-Futuna|Saint-Pierre-et-Miquelon
+2029-12-26,2ème jour de Noël,Alsace-Moselle

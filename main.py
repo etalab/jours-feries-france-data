@@ -21,6 +21,7 @@ def add_event(calendar, name, date):
     event.begin = date.strftime("%Y-%m-%d")
     event.created = datetime.datetime(datetime.date.today().year, 1, 1)
     event.make_all_day()
+    event.end = date.strftime("%Y-%m-%d")
     calendar.events.add(event)
 
 
@@ -57,7 +58,7 @@ for zone, zone_slug in [(z, slugify(z)) for z in JoursFeries.ZONES]:
     csv_data = []
     json_data = {}
     calendar = Calendar()
-    calendar.creator = "Etalab"
+    calendar.creator = "-//DINUM//Jours fériés Métropole//FR"
     calendar.method = "PUBLISH"
     for year in range(current_year + START, current_year + END + 1):
         bank_holidays = JoursFeries.for_year(year, zone)

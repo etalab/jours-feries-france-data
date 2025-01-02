@@ -1,15 +1,4 @@
 date,annee,zone,nom_jour_ferie
-2004-01-01,2004,Polynésie Française,1er janvier
-2004-04-12,2004,Polynésie Française,Lundi de Pâques
-2004-05-01,2004,Polynésie Française,1er mai
-2004-05-08,2004,Polynésie Française,8 mai
-2004-05-20,2004,Polynésie Française,Ascension
-2004-05-31,2004,Polynésie Française,Lundi de Pentecôte
-2004-07-14,2004,Polynésie Française,14 juillet
-2004-08-15,2004,Polynésie Française,Assomption
-2004-11-01,2004,Polynésie Française,Toussaint
-2004-11-11,2004,Polynésie Française,11 novembre
-2004-12-25,2004,Polynésie Française,Jour de Noël
 2005-01-01,2005,Polynésie Française,1er janvier
 2005-03-28,2005,Polynésie Française,Lundi de Pâques
 2005-05-01,2005,Polynésie Française,1er mai
@@ -285,3 +274,14 @@ date,annee,zone,nom_jour_ferie
 2029-11-01,2029,Polynésie Française,Toussaint
 2029-11-11,2029,Polynésie Française,11 novembre
 2029-12-25,2029,Polynésie Française,Jour de Noël
+2030-01-01,2030,Polynésie Française,1er janvier
+2030-04-22,2030,Polynésie Française,Lundi de Pâques
+2030-05-01,2030,Polynésie Française,1er mai
+2030-05-08,2030,Polynésie Française,8 mai
+2030-05-30,2030,Polynésie Française,Ascension
+2030-06-10,2030,Polynésie Française,Lundi de Pentecôte
+2030-07-14,2030,Polynésie Française,14 juillet
+2030-08-15,2030,Polynésie Française,Assomption
+2030-11-01,2030,Polynésie Française,Toussaint
+2030-11-11,2030,Polynésie Française,11 novembre
+2030-12-25,2030,Polynésie Française,Jour de Noël

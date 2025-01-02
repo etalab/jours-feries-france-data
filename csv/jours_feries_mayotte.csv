@@ -1,16 +1,4 @@
 date,annee,zone,nom_jour_ferie
-2004-01-01,2004,Mayotte,1er janvier
-2004-04-12,2004,Mayotte,Lundi de Pâques
-2004-04-27,2004,Mayotte,Abolition de l'esclavage
-2004-05-01,2004,Mayotte,1er mai
-2004-05-08,2004,Mayotte,8 mai
-2004-05-20,2004,Mayotte,Ascension
-2004-05-31,2004,Mayotte,Lundi de Pentecôte
-2004-07-14,2004,Mayotte,14 juillet
-2004-08-15,2004,Mayotte,Assomption
-2004-11-01,2004,Mayotte,Toussaint
-2004-11-11,2004,Mayotte,11 novembre
-2004-12-25,2004,Mayotte,Jour de Noël
 2005-01-01,2005,Mayotte,1er janvier
 2005-03-28,2005,Mayotte,Lundi de Pâques
 2005-04-27,2005,Mayotte,Abolition de l'esclavage
@@ -311,3 +299,15 @@ date,annee,zone,nom_jour_ferie
 2029-11-01,2029,Mayotte,Toussaint
 2029-11-11,2029,Mayotte,11 novembre
 2029-12-25,2029,Mayotte,Jour de Noël
+2030-01-01,2030,Mayotte,1er janvier
+2030-04-22,2030,Mayotte,Lundi de Pâques
+2030-04-27,2030,Mayotte,Abolition de l'esclavage
+2030-05-01,2030,Mayotte,1er mai
+2030-05-08,2030,Mayotte,8 mai
+2030-05-30,2030,Mayotte,Ascension
+2030-06-10,2030,Mayotte,Lundi de Pentecôte
+2030-07-14,2030,Mayotte,14 juillet
+2030-08-15,2030,Mayotte,Assomption
+2030-11-01,2030,Mayotte,Toussaint
+2030-11-11,2030,Mayotte,11 novembre
+2030-12-25,2030,Mayotte,Jour de Noël

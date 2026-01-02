@@ -1,17 +1,4 @@
 date,annee,zone,nom_jour_ferie
-2005-01-01,2005,Alsace-Moselle,1er janvier
-2005-03-25,2005,Alsace-Moselle,Vendredi saint
-2005-03-28,2005,Alsace-Moselle,Lundi de Pâques
-2005-05-01,2005,Alsace-Moselle,1er mai
-2005-05-05,2005,Alsace-Moselle,Ascension
-2005-05-08,2005,Alsace-Moselle,8 mai
-2005-05-16,2005,Alsace-Moselle,Lundi de Pentecôte
-2005-07-14,2005,Alsace-Moselle,14 juillet
-2005-08-15,2005,Alsace-Moselle,Assomption
-2005-11-01,2005,Alsace-Moselle,Toussaint
-2005-11-11,2005,Alsace-Moselle,11 novembre
-2005-12-25,2005,Alsace-Moselle,Jour de Noël
-2005-12-26,2005,Alsace-Moselle,2ème jour de Noël
 2006-01-01,2006,Alsace-Moselle,1er janvier
 2006-04-14,2006,Alsace-Moselle,Vendredi saint
 2006-04-17,2006,Alsace-Moselle,Lundi de Pâques
@@ -41,8 +28,8 @@ date,annee,zone,nom_jour_ferie
 2008-01-01,2008,Alsace-Moselle,1er janvier
 2008-03-21,2008,Alsace-Moselle,Vendredi saint
 2008-03-24,2008,Alsace-Moselle,Lundi de Pâques
-2008-05-01,2008,Alsace-Moselle,1er mai
 2008-05-01,2008,Alsace-Moselle,Ascension
+2008-05-01,2008,Alsace-Moselle,1er mai
 2008-05-08,2008,Alsace-Moselle,8 mai
 2008-05-12,2008,Alsace-Moselle,Lundi de Pentecôte
 2008-07-14,2008,Alsace-Moselle,14 juillet
@@ -337,3 +324,16 @@ date,annee,zone,nom_jour_ferie
 2030-11-11,2030,Alsace-Moselle,11 novembre
 2030-12-25,2030,Alsace-Moselle,Jour de Noël
 2030-12-26,2030,Alsace-Moselle,2ème jour de Noël
+2031-01-01,2031,Alsace-Moselle,1er janvier
+2031-04-11,2031,Alsace-Moselle,Vendredi saint
+2031-04-14,2031,Alsace-Moselle,Lundi de Pâques
+2031-05-01,2031,Alsace-Moselle,1er mai
+2031-05-08,2031,Alsace-Moselle,8 mai
+2031-05-22,2031,Alsace-Moselle,Ascension
+2031-06-02,2031,Alsace-Moselle,Lundi de Pentecôte
+2031-07-14,2031,Alsace-Moselle,14 juillet
+2031-08-15,2031,Alsace-Moselle,Assomption
+2031-11-01,2031,Alsace-Moselle,Toussaint
+2031-11-11,2031,Alsace-Moselle,11 novembre
+2031-12-25,2031,Alsace-Moselle,Jour de Noël
+2031-12-26,2031,Alsace-Moselle,2ème jour de Noël

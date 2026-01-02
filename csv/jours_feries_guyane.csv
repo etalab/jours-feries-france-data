@@ -1,16 +1,4 @@
 date,annee,zone,nom_jour_ferie
-2005-01-01,2005,Guyane,1er janvier
-2005-03-28,2005,Guyane,Lundi de Pâques
-2005-05-01,2005,Guyane,1er mai
-2005-05-05,2005,Guyane,Ascension
-2005-05-08,2005,Guyane,8 mai
-2005-05-16,2005,Guyane,Lundi de Pentecôte
-2005-06-10,2005,Guyane,Abolition de l'esclavage
-2005-07-14,2005,Guyane,14 juillet
-2005-08-15,2005,Guyane,Assomption
-2005-11-01,2005,Guyane,Toussaint
-2005-11-11,2005,Guyane,11 novembre
-2005-12-25,2005,Guyane,Jour de Noël
 2006-01-01,2006,Guyane,1er janvier
 2006-04-17,2006,Guyane,Lundi de Pâques
 2006-05-01,2006,Guyane,1er mai
@@ -37,8 +25,8 @@ date,annee,zone,nom_jour_ferie
 2007-12-25,2007,Guyane,Jour de Noël
 2008-01-01,2008,Guyane,1er janvier
 2008-03-24,2008,Guyane,Lundi de Pâques
-2008-05-01,2008,Guyane,Ascension
 2008-05-01,2008,Guyane,1er mai
+2008-05-01,2008,Guyane,Ascension
 2008-05-08,2008,Guyane,8 mai
 2008-05-12,2008,Guyane,Lundi de Pentecôte
 2008-06-10,2008,Guyane,Abolition de l'esclavage
@@ -172,8 +160,8 @@ date,annee,zone,nom_jour_ferie
 2019-05-01,2019,Guyane,1er mai
 2019-05-08,2019,Guyane,8 mai
 2019-05-30,2019,Guyane,Ascension
-2019-06-10,2019,Guyane,Abolition de l'esclavage
 2019-06-10,2019,Guyane,Lundi de Pentecôte
+2019-06-10,2019,Guyane,Abolition de l'esclavage
 2019-07-14,2019,Guyane,14 juillet
 2019-08-15,2019,Guyane,Assomption
 2019-11-01,2019,Guyane,Toussaint
@@ -311,3 +299,15 @@ date,annee,zone,nom_jour_ferie
 2030-11-01,2030,Guyane,Toussaint
 2030-11-11,2030,Guyane,11 novembre
 2030-12-25,2030,Guyane,Jour de Noël
+2031-01-01,2031,Guyane,1er janvier
+2031-04-14,2031,Guyane,Lundi de Pâques
+2031-05-01,2031,Guyane,1er mai
+2031-05-08,2031,Guyane,8 mai
+2031-05-22,2031,Guyane,Ascension
+2031-06-02,2031,Guyane,Lundi de Pentecôte
+2031-06-10,2031,Guyane,Abolition de l'esclavage
+2031-07-14,2031,Guyane,14 juillet
+2031-08-15,2031,Guyane,Assomption
+2031-11-01,2031,Guyane,Toussaint
+2031-11-11,2031,Guyane,11 novembre
+2031-12-25,2031,Guyane,Jour de Noël

@@ -6,7 +6,7 @@ jobs:
   keep_alive:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v7
     - name: Add or update .keepalive
       run: echo $(date +'%s') > .keepalive
     - name: Commit .keepalive
